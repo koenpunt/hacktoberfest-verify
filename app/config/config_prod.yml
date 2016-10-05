@@ -7,11 +7,13 @@ imports:
 #    serializer:
 #        cache: serializer.mapping.cache.apc
 
-#doctrine:
+doctrine:
 #    orm:
 #        metadata_cache_driver: apc
 #        result_cache_driver: apc
 #        query_cache_driver: apc
+    dbal:
+        url: "%database_url%"
 
 monolog:
     handlers:
