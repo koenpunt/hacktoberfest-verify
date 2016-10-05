@@ -63,7 +63,8 @@
                 "database_url": "DATABASE_URL",
                 "github_app_id": "GITHUB_APP_ID",
                 "github_app_secret": "GITHUB_APP_SECRET",
-                "github_callback_url": "GITHUB_CALLBACK_URL"
+                "github_callback_url": "GITHUB_CALLBACK_URL",
+                "redis_url": "REDIS_URL"
             }
         }
     }

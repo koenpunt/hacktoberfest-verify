@@ -21,3 +21,5 @@ parameters:
     github_app_id: 4bf11217cfd65da8eed9
     github_app_secret: 7171b3284257d80d9d51cd612d8c16e16a00d979
     github_callback_url: http://dev.hacktober.io/app_dev.php/connect/github
+
+    redis_url: ~
