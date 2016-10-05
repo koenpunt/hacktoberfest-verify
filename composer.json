@@ -53,7 +53,10 @@
         "incenteev-parameters": {
             "file": "app/config/parameters.yml",
             "env-map": {
-                "database_url": "DATABASE_URL"
+                "database_url": "DATABASE_URL",
+                "github_app_id": "GITHUB_APP_ID",
+                "github_app_secret": "GITHUB_APP_SECRET",
+                "github_callback_url": "GITHUB_CALLBACK_URL"
             }
         }
     }
